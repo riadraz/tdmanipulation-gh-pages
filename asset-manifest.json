@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tdmanipulation-gh-pages/static/css/main.56bfb60b.css",
+    "main.js": "/tdmanipulation-gh-pages/static/js/main.357c93a7.js",
+    "static/js/787.21e89059.chunk.js": "/tdmanipulation-gh-pages/static/js/787.21e89059.chunk.js",
+    "index.html": "/tdmanipulation-gh-pages/index.html",
+    "main.56bfb60b.css.map": "/tdmanipulation-gh-pages/static/css/main.56bfb60b.css.map",
+    "main.357c93a7.js.map": "/tdmanipulation-gh-pages/static/js/main.357c93a7.js.map",
+    "787.21e89059.chunk.js.map": "/tdmanipulation-gh-pages/static/js/787.21e89059.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56bfb60b.css",
+    "static/js/main.357c93a7.js"
+  ]
+}
